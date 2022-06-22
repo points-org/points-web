@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>业务流程自动化</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.00298892989 0.0279888734 18.2739188 0.0279888734 18.2739188 28.7399666 0.00298892989 28.7399666"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-21-Copy-2">
+            <g id="Group-10">
+                <polygon id="Path" points="0 0 50 0 50 50 0 50"></polygon>
+                <g id="jm" transform="translate(12.000000, 7.000000)">
+                    <polygon id="Fill-1" fill="#FF8F38" points="11.4998081 0.0100139082 26.9616421 8.98242559 26.9616421 35.899911 11.4998081 26.9274993"></polygon>
+                    <g id="Group-5" transform="translate(0.000000, 7.159944)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-3"></g>
+                        <polygon id="Fill-2" fill="#F96D00" mask="url(#mask-2)" points="5.90448155 0.0279888734 18.2739188 7.20595828 18.2739188 28.7399666 5.90448155 21.5619972"></polygon>
+                        <polygon id="Fill-4" fill="#FFECDE" mask="url(#mask-2)" points="0 5.77036439 9.89574908 11.5126898 9.89574908 28.7399666 0 22.9975911"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

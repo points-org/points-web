@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>异业多方协作</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.00325301205 0.0021686747 36 0.0021686747 36 36 0.00325301205 36"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-21">
+            <g id="Group-10">
+                <polygon id="Path" points="0 0 50 0 50 50 0 50"></polygon>
+                <g id="lc" transform="translate(7.000000, 7.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M6.63137349,29.3681928 L29.3681928,29.3681928 L29.3681928,6.63137349 L6.63137349,6.63137349 L6.63137349,29.3681928 Z M8.52646988,27.4735301 L27.4735301,27.4735301 L27.4735301,8.52646988 L8.52646988,8.52646988 L8.52646988,27.4735301 Z" id="Fill-1" fill="#F96D00" mask="url(#mask-2)"></path>
+                    <polygon id="Fill-3" fill="#FF8F38" mask="url(#mask-2)" points="0.00325301205 17.0526687 17.0526687 17.0526687 17.0526687 0.0021686747 0.00325301205 0.0021686747"></polygon>
+                    <polygon id="Fill-4" fill="#FFECDE" mask="url(#mask-2)" points="18.9473313 36 36 36 36 18.9473313 18.9473313 18.9473313"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

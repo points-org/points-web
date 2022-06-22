@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>先进机器学习算法</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0030125523 0.011562701 35.9900084 0.011562701 35.9900084 30.9502605 0.0030125523 30.9502605"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-21-Copy-3">
+            <g id="Group-10">
+                <g id="Group-21-Copy-2">
+                    <g id="Group-10">
+                        <polygon id="Path" points="0 0 50 0 50 50 0 50"></polygon>
+                        <g id="yyglxt" transform="translate(7.000000, 10.000000)">
+                            <g id="Group-3">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Clip-2"></g>
+                                <polygon id="Fill-1" fill="#F96D00" mask="url(#mask-2)" points="0 30.9502605 17.9948787 0.011562701 35.9900084 30.9502605"></polygon>
+                            </g>
+                            <polygon id="Fill-4" fill="#FF8F38" points="9.52679498 30.9502605 22.758477 8.20114469 35.9900084 30.9502605"></polygon>
+                            <polygon id="Fill-5" fill="#FFECDE" points="19.0533891 30.9502605 27.5219247 16.3907765 35.9900084 30.9502605"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

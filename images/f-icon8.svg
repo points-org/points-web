@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>前沿技术联合建模</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 35.9857358 0 35.9857358 35.9968966 0 35.9968966"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-21-Copy-3">
+            <g id="Group-10">
+                <polygon id="Path" points="0 0 50 0 50 50 0 50"></polygon>
+                <g id="mx" transform="translate(7.000000, 7.000000)">
+                    <polygon id="Fill-1" fill="#FF8F38" points="17.9961335 10.2848276 17.9961335 20.5696552 26.9934688 15.4275517 26.9930508 5.14272414"></polygon>
+                    <polygon id="Fill-2" fill="#F96D00" points="8.99858926 5.14272414 17.9961335 10.2848276 17.9961335 20.570069 8.99858926 15.4275517"></polygon>
+                    <g id="Group-10">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-4"></g>
+                        <polygon id="Fill-3" fill="#FFECDE" mask="url(#mask-2)" points="17.9961335 10.2848276 26.9934688 5.14272414 17.9961335 0 8.99858926 5.14272414"></polygon>
+                        <polygon id="Fill-5" fill="#FF8F38" mask="url(#mask-2)" points="8.99733527 25.7151724 8.99733527 36 17.9946705 30.8578966 17.9943048 20.5724483"></polygon>
+                        <polygon id="Fill-6" fill="#F96D00" mask="url(#mask-2)" points="0 20.5724483 8.99733527 25.7151724 8.99733527 36 0 30.8578966"></polygon>
+                        <polygon id="Fill-7" fill="#FFECDE" mask="url(#mask-2)" points="8.99733527 25.7151724 17.9946705 20.5724483 8.99733527 15.4303448 0 20.5724483"></polygon>
+                        <polygon id="Fill-8" fill="#FF8F38" mask="url(#mask-2)" points="26.9883483 25.7151724 26.9883483 36 35.9857358 30.8578966 35.9853179 20.5724483"></polygon>
+                        <polygon id="Fill-9" fill="#F96D00" mask="url(#mask-2)" points="17.9910131 20.5724483 26.9883483 25.7151724 26.9883483 36 17.9910131 30.8578966"></polygon>
+                    </g>
+                    <polygon id="Fill-11" fill="#FFECDE" points="26.9883483 25.7151724 35.9857358 20.5724483 26.9883483 15.4303448 17.9910131 20.5724483"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>研究成果@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#EB8F03" offset="0%"></stop>
+            <stop stop-color="#FFB75E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="58.4014958%" x2="0%" y2="58.4014958%" id="linearGradient-2">
+            <stop stop-color="#FFA135" offset="0%"></stop>
+            <stop stop-color="#FF7835" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7-Copy-2" fill-rule="nonzero">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="4" width="23.5135135" height="23.2"></rect>
+            <rect id="Rectangle-Copy-4" fill="url(#linearGradient-2)" x="25.9459459" y="0" width="4.05405405" height="4"></rect>
+            <rect id="Rectangle-Copy-5" fill="url(#linearGradient-2)" x="4.86486486" y="28.8" width="3.24324324" height="3.2"></rect>
+            <rect id="Rectangle-Copy-3" fill="#FEE9CD" x="12.1621622" y="15.2" width="15.4054054" height="15.2"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>483</title>
+    <desc>Created with Sketch.</desc>
+    <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9" fill-rule="nonzero">
+            <circle id="Oval-Copy" fill="#F96D00" cx="34" cy="34" r="34"></circle>
+            <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="3.03420369" fill="#F96D00" cx="34" cy="34" r="19.6842105"></circle>
+            <path d="M28.626931,28.3592071 C28.4790712,28.3592071 28.3592071,28.4790712 28.3592071,28.626931 L28.3592071,39.373069 C28.3592071,39.5209288 28.4790712,39.6407929 28.626931,39.6407929 L39.373069,39.6407929 C39.5209288,39.6407929 39.6407929,39.5209288 39.6407929,39.373069 L39.6407929,28.626931 C39.6407929,28.4790712 39.5209288,28.3592071 39.373069,28.3592071 L28.626931,28.3592071 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="3.03420369" transform="translate(34.000000, 34.000000) rotate(-45.000000) translate(-34.000000, -34.000000) "></path>
+        </g>
+    </g>
+</svg>
