@@ -195,36 +195,12 @@
         live: true
     });
     wow.init();
-    let data = {
-        username: 'points',
-        password: 'points123$%^',
-    }
-    console.log(apiUrl);
     $(function () {
-        $.ajax({
-            url: `${apiUrl}/login`,
-            type: 'post',
-            dataType: 'json',
-            contentType: 'application/json',
-            data: JSON.stringify(data),
-            success: function (res) {
-                $.each(res, (index, item) => {
-                    let token = `${res.token_type} ${res.access_token}`
-                    queryData(token)
-                });
-            }
-        });
-    });
-
-    function queryData(token) {
         let html = ''
         $.ajax({
             url: `${apiUrl}/news/?skip=0&limit=100`,
             type: 'get',
             data: {},
-            headers: {
-                'Authorization': token
-            },
             success: function (res) {
                 $.each(res.data, (index, item) => {
                     html +=
@@ -246,7 +222,7 @@
                 $('.pic-list').html(html);
             }
         });
-    }
+    });
 </script>
 </body>
 

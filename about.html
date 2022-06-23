@@ -246,34 +246,11 @@
     });
     wow.init();
     $(function () {
-        let data = {
-            username: 'points',
-            password: 'points123$%^',
-        }
-        $.ajax({
-            url: `${apiUrl}/login`,
-            type: 'post',
-            dataType: 'json',
-            contentType: 'application/json',
-            data: JSON.stringify(data),
-            success: function (res) {
-                $.each(res, (index, item) => {
-                    let token = `${res.token_type} ${res.access_token}`
-                    queryData(token)
-                });
-            }
-        });
-    });
-
-    function queryData(token) {
         let html = ''
         $.ajax({
             url: `${apiUrl}/history?skip=0&limit=100`,
             type: 'get',
             data: {},
-            headers: {
-                'Authorization': token
-            },
             success: function (res) {
                 $.each(res.data, (index, item) => {
                     html +=
@@ -287,7 +264,7 @@
                 $('.pic-list').html(html);
             }
         });
-    }
+    });
 </script>
 <script>
     var swiper = new Swiper('.lingyu .swiper-container', {
