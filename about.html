@@ -256,7 +256,7 @@
                     html +=
                         `<li>
                             <div class="text-content">
-                                <h5 class="ellipsis-3">${item.date}</h5>
+                                <h5 class="ellipsis-3">${item.date.split('-')[0]}-${item.date.split('-')[1]}</h5>
                                 <div class="txt">${item.description}</div>
                             </div>
                         </li>`
